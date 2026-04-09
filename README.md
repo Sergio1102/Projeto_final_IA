@@ -39,32 +39,32 @@ Siga os passos abaixo para rodar o projeto localmente na sua máquina.
 
 ### Instalação
 
-1. Clone o repositório:
+#### 1. Clone o repositório:
 ```bash
 git clone [https://github.com/Sergio1102/Projeto_final_IA.git](https://github.com/Sergio1102/Projeto_final_IA.git)
 cd Projeto_final_IA
 ```
 
-2. Crie e ative um ambiente virtual:
+#### 2. Crie e ative um ambiente virtual:
 ```bash
 python -m venv meu_ambiente
 source meu_ambiente/bin/activate  # Linux/Mac
 # ou meu_ambiente\Scripts\activate no Windows
 ```
 
-3. Instale as dependências:
+#### 3. Instale as dependências:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Configure as variáveis de ambiente:
+#### 4. Configure as variáveis de ambiente:
    
 Crie um arquivo chamado .env na raiz do projeto e adicione sua chave de API do Google:
 ```
 GOOGLE_API_KEY=sua_chave_de_api_aqui
 ```
 
-### Executando a Aplicação Web
+#### Executando a Aplicação Web
 Com o ambiente ativado e o .env configurado, inicie o servidor do Streamlit:
 ```bash
 streamlit run app.py
