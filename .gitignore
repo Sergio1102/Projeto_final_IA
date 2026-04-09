@@ -1,0 +1,14 @@
+# Segurança
+.env
+
+# Ambiente Virtual
+virtual/
+venv/
+env/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
