@@ -58,6 +58,7 @@ pip install -r requirements.txt
 ```
 
 4. Configure as variáveis de ambiente:
+   
 Crie um arquivo chamado .env na raiz do projeto e adicione sua chave de API do Google:
 ```
 GOOGLE_API_KEY=sua_chave_de_api_aqui
