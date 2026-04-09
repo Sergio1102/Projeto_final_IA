@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![LangGraph](https://img.shields.io/badge/LangGraph-AI_Agents-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red)
-![Gemini](https://img.shields.io/badge/Gemini-1.5_Flash-green)
+![Gemini](https://img.shields.io/badge/Gemini-2.5_Flash-green)
 
 Um sistema multiagente inteligente projetado para auxiliar professores e educadores na criação de planos de aula dinâmicos e práticos focados em **Robótica Educacional**.
 
